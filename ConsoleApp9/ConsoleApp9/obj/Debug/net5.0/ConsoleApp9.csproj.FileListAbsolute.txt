@@ -1,0 +1,16 @@
+H:\ConsoleApp9\ConsoleApp9\obj\Debug\net5.0\ConsoleApp9.csproj.AssemblyReference.cache
+H:\ConsoleApp9\ConsoleApp9\obj\Debug\net5.0\ConsoleApp9.GeneratedMSBuildEditorConfig.editorconfig
+H:\ConsoleApp9\ConsoleApp9\obj\Debug\net5.0\ConsoleApp9.AssemblyInfoInputs.cache
+H:\ConsoleApp9\ConsoleApp9\obj\Debug\net5.0\ConsoleApp9.AssemblyInfo.cs
+H:\ConsoleApp9\ConsoleApp9\obj\Debug\net5.0\ConsoleApp9.csproj.CoreCompileInputs.cache
+H:\ConsoleApp9\ConsoleApp9\bin\Debug\net5.0\ConsoleApp9.exe
+H:\ConsoleApp9\ConsoleApp9\bin\Debug\net5.0\ConsoleApp9.deps.json
+H:\ConsoleApp9\ConsoleApp9\bin\Debug\net5.0\ConsoleApp9.runtimeconfig.json
+H:\ConsoleApp9\ConsoleApp9\bin\Debug\net5.0\ConsoleApp9.runtimeconfig.dev.json
+H:\ConsoleApp9\ConsoleApp9\bin\Debug\net5.0\ConsoleApp9.dll
+H:\ConsoleApp9\ConsoleApp9\bin\Debug\net5.0\ConsoleApp9.pdb
+H:\ConsoleApp9\ConsoleApp9\obj\Debug\net5.0\ConsoleApp9.dll
+H:\ConsoleApp9\ConsoleApp9\obj\Debug\net5.0\refint\ConsoleApp9.dll
+H:\ConsoleApp9\ConsoleApp9\obj\Debug\net5.0\ConsoleApp9.pdb
+H:\ConsoleApp9\ConsoleApp9\obj\Debug\net5.0\ConsoleApp9.genruntimeconfig.cache
+H:\ConsoleApp9\ConsoleApp9\obj\Debug\net5.0\ref\ConsoleApp9.dll
